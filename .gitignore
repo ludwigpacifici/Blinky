@@ -1,1 +1,5 @@
 *~
+/c/*.bin
+/c/*.elf
+/c/*.o
+/data/firmware/
