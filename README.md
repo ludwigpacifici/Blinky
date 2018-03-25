@@ -1,5 +1,7 @@
 # blinky
 
+![blinky LED with a Raspberry Pi 3](blinky.gif)
+
 ## References
 
 * An Experimental Course on Operating Systems, Sergio Benitez (instructor), Dawson Engler (instructor) and Jennifer Lin (course assistant), https://web.stanford.edu/class/cs140e/

@@ -1,5 +1,9 @@
+*.o
 *~
+/aarch64-none-elf/
 /c/*.bin
 /c/*.elf
-/c/*.o
 /data/firmware/
+/rust/build/
+/rust/target/
+/rust/Cargo.lock
